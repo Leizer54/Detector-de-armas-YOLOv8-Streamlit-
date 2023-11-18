@@ -6,4 +6,4 @@ streamlit_lottie
 torch
 torchvision
 pafy
-numpy>=1.22.2
+numpy
