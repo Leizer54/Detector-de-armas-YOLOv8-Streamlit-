@@ -1,7 +1,7 @@
 streamlit
 ultralytics
 opencv-python
-Pillow==10.1.0
+Pillow
 streamlit_lottie
 torch
 torchvision
