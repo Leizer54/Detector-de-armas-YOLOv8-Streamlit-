@@ -1,7 +1,6 @@
 streamlit
 opencv-python
 Pillow
-streamlit_lottie
 torch
 torchvision
 pafy
