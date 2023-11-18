@@ -6,3 +6,4 @@ streamlit_lottie
 torch
 torchvision
 pafy
+numpy
