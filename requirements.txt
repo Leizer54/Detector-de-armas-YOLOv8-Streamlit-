@@ -1,5 +1,4 @@
 streamlit
-ultralytics
 opencv-python
 Pillow
 streamlit_lottie
@@ -7,3 +6,4 @@ torch
 torchvision
 pafy
 numpy
+ultralytics
