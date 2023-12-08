@@ -1,6 +1,7 @@
 # Detector-de-armas-YOLOv8-Streamlit-
 Aplicación web de detección de armas en tiempo real mediante YOLOv8n
 
+El acceso a la aplicación se encuentra en este link: https://detectgun-yolov8.onrender.com/ (debido a que es un prototipo, puede demorar en cargar)
 ##  Requerimientos:
 ### Creación de un entorno virtual y activación:
 ```python
